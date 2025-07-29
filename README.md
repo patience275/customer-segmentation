@@ -1,5 +1,18 @@
 # understanding customer shopping behaviors using KMeans
 
+## overview
+
+This project uses **KMeans clustering** to understand customer shopping behavior and identify distinct customer segments. These segments help businesses tailor their marketing strategies for better engagement, satisfaction, and conversion.
+
+## tech stack
+- google colab
+- pandas
+- scikit-learn
+- seaborn
+- matplotlib
+- ChatGPT
+
+
 ## problem statement
 In today's competitive business landscape, understanding customers is paramount for sustainable growth and effective marketing strategies. Businesses often struggle with a monolithic view of their customer base, leading to generic marketing campaigns that yield suboptimal results. Without segmenting customers, companies risk misallocating resources, failing to address specific customer needs, and missing opportunities for personalized engagement
 
